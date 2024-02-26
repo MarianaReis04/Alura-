@@ -1,1 +1,1 @@
-<a href="https://marianareis04.github.io/aula/index.html/Alura-/"> alura </a>
+<a href="https://marianareis04.github.io/Alura-/aula/index.html"> alura </a>
